@@ -17,7 +17,7 @@ This project was created as part of my Data Analyst Internship (Task 2).
 - The **West region** has the highest sales.
 - **Furniture** category has high sales but **low profit**.
 - **Tables** sub-category is running at a **loss**.
-- **Sales increase** around the end of the year.
+- - Sales increase significantly toward the end of the year, especially in November and December.
 - A few customers generate a large share of the profit.
 
 ## 📤 Deliverables
